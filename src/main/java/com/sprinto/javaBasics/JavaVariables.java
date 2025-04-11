@@ -1,4 +1,4 @@
-package com.sprinto;
+package com.sprinto.javaBasics;
 
 public class JavaVariables {
 
@@ -84,9 +84,5 @@ public class JavaVariables {
         System.out.println("Final Variable: " + obj.CONSTANT_VALUE);
         System.out.println("Static Final (Constant): " + PI);
     }
-}
-class Person {
-    final static String name = "";
-    final int age = 24;
 }
 
